@@ -1,0 +1,27 @@
+tr{
+    text-aling: center;
+    font-size: 25px
+  }
+td{
+    font-size: 20px;
+    width: 5%;
+  }
+table{
+    border-radius: 10px;
+    text-align: center;
+    width:80%;
+    margin: 0 auto;
+     
+     
+  }
+  
+  
+  
+
+
+  .foto {
+    max-width: 200px;
+    border: 5px solid;
+    border-radius:30px;
+    
+  }
